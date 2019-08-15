@@ -1,2 +1,3 @@
-# huelga
-huelga en la CCSS
+# Encabezado Tipo1
+## Encabezado Tipo2
+Solamente consideraci
